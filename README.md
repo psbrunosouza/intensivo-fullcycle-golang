@@ -16,3 +16,9 @@ da linguagem GO, como:
 - Test Suite (lib externa)
 - Instancia de structs
 
+# Sobre o evento
+
+O evento é provido pela plataforma fullcycle coordenada por <a href="https://github.com/wesleywillians">**Wesley Willians**</a>
+
+<a href="https://golang.fullcycle.com.br/page/golang-intensivo3/">Intensivo GO</a>
+<a href="https://fullcycle.com.br/">Plataforma FullCycle</a>
