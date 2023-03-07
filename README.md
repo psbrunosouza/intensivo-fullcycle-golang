@@ -19,6 +19,8 @@ da linguagem GO, como:
 # Sobre o evento
 
 O evento é provido pela plataforma fullcycle coordenada por <a href="https://github.com/wesleywillians">**Wesley Willians**</a>
+e tem por objetivo ensinar o máximo de conceitos possíveis da linguagem GO em um intensivo de tres dias 
+através de aplicações simples, porém usando de conceitos já abordados no mercado de desenvolvimento.
 
 <ul>
   <li>
