@@ -20,5 +20,12 @@ da linguagem GO, como:
 
 O evento é provido pela plataforma fullcycle coordenada por <a href="https://github.com/wesleywillians">**Wesley Willians**</a>
 
-<a href="https://golang.fullcycle.com.br/page/golang-intensivo3/">Intensivo GO</a>
-<a href="https://fullcycle.com.br/">Plataforma FullCycle</a>
+<ul>
+  <li>
+    <a href="https://golang.fullcycle.com.br/page/golang-intensivo3/">Intensivo GO</a>
+  </li>
+  <li>
+    <a href="https://fullcycle.com.br/">Plataforma FullCycle</a>
+  </li>
+</ul>
+
